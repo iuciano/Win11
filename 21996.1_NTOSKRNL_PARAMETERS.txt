@@ -304,11 +304,11 @@ Win32kCalloutWatchdogTimeoutSeconds 1Eh
 
 
 "Session Manager\\Power\\HiberFileBucket"
-Percent1GBFull db 28 00 00 00 00 00 00 00 00 00
+Percent1GBFull db 28 00 00 00 00 00 00 00 00 01
 Percent1GBReduced 14 00 00 00 
-Percent2GBFull 28 00 00 00 00 00 00 00 00 00
+Percent2GBFull 28 00 00 00 00 00 00 00 00 01
 Percent2GBReduced 14 00 00 00 
-Percent4GBFull 28 00 00 00 00 00 00 00 00 00
+Percent4GBFull 28 00 00 00 00 00 00 00 00 01
 Percent4GBReduced 14 00 00 00 
 Percent8GBFull 28 00 00 00 00 00 00 00 00 00
 Percent8GBReduced 114 00 00 00 
